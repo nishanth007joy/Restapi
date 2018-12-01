@@ -1,0 +1,6 @@
+test:
+  api:
+    url: https://beeceptor.com/console/mytestapi/hello
+    
+server:  servlet:    context-path: /testapi
+   port: 9090
